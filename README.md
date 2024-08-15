@@ -23,7 +23,7 @@ Welcome to Blog Website! This application allows users to read, create, and dele
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/log-website.git 
+   git clone https://github.com/Sherinr11/Blog-Website-using-React
 2. **Navigate to the project directory:**
    ```bash
    cd react-blog
