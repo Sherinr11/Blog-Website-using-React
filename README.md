@@ -17,6 +17,23 @@ Welcome to Blog Website! This application allows users to read, create, and dele
 - **React Router:** For routing and navigation.
 - **Axios:** For making HTTP requests.
 - **CSS:** For styling the components.
+## Screenshots
+
+### Home Page
+
+![Home Page](assets/home.png)
+
+### Blog Post View
+
+![Blog Posts View](assets/read_blogs.png)
+
+
+[Single Post View](assets/single_blog.png)
+
+### Add Post
+
+![Add Post](assets/add_post.png)
+
 
 ## Installation
 
@@ -34,6 +51,7 @@ Welcome to Blog Website! This application allows users to read, create, and dele
 ```bash
 npm start
 npm run start:server
+
 
 
 
