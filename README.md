@@ -33,7 +33,8 @@ Welcome to Blog Website! This application allows users to read, create, and dele
 4.**Start the development server:**
 ```bash
 npm start
-   
+npm run start:server
+
 
 
 
