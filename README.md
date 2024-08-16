@@ -28,7 +28,7 @@ Welcome to Blog Website! This application allows users to read, create, and dele
 ![Blog Posts View](assets/read_blogs.png)
 
 
-[Single Post View](assets/single_blog.png)
+[Single Post View](assets/single_post.png)
 
 ### Add Post
 
